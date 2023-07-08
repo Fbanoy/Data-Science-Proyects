@@ -4,24 +4,28 @@ Welcome to my Data Scientist Portfolio Projects repository! Here you will find a
 
 ## Project Structure
 
-The repository is organized as follows:
-├── Project 1
-│   ├── code
-│   ├── datasets
-│   └── README.md
-├── Project 2
-│   ├── code
-│   ├── datasets
-│   └── README.md
-├── Project 3
-│   ├── code
-│   ├── datasets
-│   └── README.md
+ **Project 1**
+  - `code`: This directory contains the Python scripts or Jupyter notebooks used to perform the data analysis, build machine learning models, and create visualizations.
+  - `datasets`: This directory holds the datasets used in the project. If the dataset is too large to store in the repository, a link or instructions to download it will be provided.
+  - `README.md`: This file provides a detailed description of the project, including the problem statement, methodology, key findings, and any additional notes or considerations.
+
+- **Project 2**
+  - `code`: This directory contains the Python scripts or Jupyter notebooks used to perform the data analysis, build machine learning models, and create visualizations.
+  - `datasets`: This directory holds the datasets used in the project. If the dataset is too large to store in the repository, a link or instructions to download it will be provided.
+  - `README.md`: This file provides a detailed description of the project, including the problem statement, methodology, key findings, and any additional notes or considerations.
+
+- **Project 3**
+  - `code`: This directory contains the Python scripts or Jupyter notebooks used to perform the data analysis, build machine learning models, and create visualizations.
+  - `datasets`: This directory holds the datasets used in the project. If the dataset is too large to store in the repository, a link or instructions to download it will be provided.
+  - `README.md`: This file provides a detailed description of the project, including the problem statement, methodology, key findings, and any additional notes or considerations.
+
 ...
-└── Project N
-    ├── code
-    ├── datasets
-    └── README.md
+
+- **Project N**
+  - `code`: This directory contains the Python scripts or Jupyter notebooks used to perform the data analysis, build machine learning models, and create visualizations.
+  - `datasets`: This directory holds the datasets used in the project. If the dataset is too large to store in the repository, a link or instructions to download it will be provided.
+  - `README.md`: This file provides a detailed description of the project, including the problem statement, methodology, key findings, and any additional notes or considerations.
+
 
     Each project has its own directory, containing the following components:
 
