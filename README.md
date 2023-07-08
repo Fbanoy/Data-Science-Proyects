@@ -4,7 +4,7 @@ Welcome to my Data Scientist Portfolio Projects repository! Here you will find a
 
 ## Project Structure
 
- **Project 1**
+- **Project 1**
   - `code`: This directory contains the Python scripts or Jupyter notebooks used to perform the data analysis, build machine learning models, and create visualizations.
   - `datasets`: This directory holds the datasets used in the project. If the dataset is too large to store in the repository, a link or instructions to download it will be provided.
   - `README.md`: This file provides a detailed description of the project, including the problem statement, methodology, key findings, and any additional notes or considerations.
