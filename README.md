@@ -65,8 +65,8 @@ To explore any of the projects in this portfolio, simply navigate to the respect
 
 If you have any questions or would like to discuss any of the projects, feel free to reach out to me:
 
-- Name: Your Name
+- Name: Federico Banoy Restrepo
 - Email: fbanoy@gmail.com
-- LinkedIn: [Federico Banoy Restrepo LinkedIn](https://www.linkedin.com/in/Fbanoy)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/Fbanoy)
 
 I hope you find these projects interesting and informative. Thank you for visiting my portfolio!
